@@ -1,0 +1,5 @@
+{
+  "name": "Winter Delicacy Shorts Creator",
+  "description": "An AI-powered application that generates a 30-second shorts script for winter delicacies, creates 6 matching images, and synthesizes audio voiceovers using Gemini models.",
+  "requestFramePermissions": []
+}
